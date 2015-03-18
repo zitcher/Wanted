@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f0d7050e49eb6e54e9b279319d908014
+labels:
+- Bomb
+- Clock
+- Dynamite
+- Explosive
+- Prop
+- Weapon
+NativeFormatImporter:
+  userData: 
